@@ -1,0 +1,1 @@
+var e=`/assets/odovzdanie-CQ1-6fWq.jpg`;export{e as t};

@@ -1,0 +1,1 @@
+var e=`/assets/dokumentacia-B-8h3os-.jpg`;export{e as t};

@@ -1,0 +1,1 @@
+var e=`/assets/mesto-Di5By3MX.jpg`;export{e as t};
